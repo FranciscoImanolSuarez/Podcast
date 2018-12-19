@@ -1,5 +1,5 @@
-# App de Podcasts creada para el curso de Next.js de Platzi
-Todos los Podcasts que se pueden ver como reproducir en la aplicacion vienen desde la API de AudioBoom.
+# App de Podcast creada para el curso de Next.js de Platzi
+Todos los Podcast que se pueden ver como reproducir en la aplicacion vienen desde la API de AudioBoom.
 
 ![](./.readme-static/captura.png)
 
